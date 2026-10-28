@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Veil VPN</string>
+
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+    <string name="back">뒤로</string>
+    <string name="next">다음</string>
+    <string name="skip">건너뛰기</string>
+    <string name="done">완료</string>
+    <string name="save">저장</string>
+    <string name="close">닫기</string>
+    <string name="confirm">확인</string>
+    <string name="retry">다시 시도</string>
+    <string name="loading">로딩 중…</string>
+    <string name="error">오류</string>
+    <string name="error_generic">문제가 발생했습니다. 다시 시도해 주세요.</string>
+    <string name="home">홈</string>
+    <string name="settings">설정</string>
+    <string name="language">언어</string>
+
+    <string name="select_language">언어 선택</string>
+    <string name="select_region">지역 선택</string>
+
+    <!-- Entry flow: Splash / Language / Select / Onboarding / Welcome back -->
+    <string name="splash_loading">연결을 보호하는 중…</string>
+    <string name="splash_ad_notice">이 작업에는 광고가 포함될 수 있습니다</string>
+    <string name="loading_ad">광고를 불러오는 중입니다. 잠시만 기다려 주세요…</string>
+    <string name="language_title">언어 선택</string>
+    <string name="language_subtitle">설정에서 언제든지 변경할 수 있습니다</string>
+    <string name="region_subtitle">가장 잘 맞는 지역을 선택하세요</string>
+    <string name="select_title">Veil VPN을 어디에 사용하시나요?</string>
+    <string name="select_subtitle">해당하는 항목을 모두 선택하시면 맞춤 경험을 제공해 드립니다.</string>
+    <string name="select_hint">하나 이상 선택하세요</string>
+    <string name="select_selected_count">선택됨: %1$d</string>
+    <string name="select_continue">계속</string>
+    <string name="select_opt_public_wifi">안전한 공용 Wi-Fi</string>
+    <string name="select_opt_privacy">사생활 보호 브라우징</string>
+    <string name="select_opt_streaming">전 세계 스트리밍</string>
+    <string name="select_opt_gaming">온라인 게임</string>
+    <string name="select_opt_remote_work">원격 근무</string>
+    <string name="select_opt_travel">해외여행</string>
+    <string name="onboarding_title_welcome">%1$s에 오신 것을 환영합니다</string>
+    <string name="onboarding_body_welcome">개인 연결이 준비되었습니다. 한 번의 탭으로 연결하고 언제든 속도를 확인하세요.</string>
+    <string name="welcome_back_title">다시 오신 것을 환영합니다!</string>
+    <string name="welcome_back_body">연결은 탭 한 번이면 됩니다. 하던 작업을 바로 이어서 하세요.</string>
+    <string name="welcome_back_continue">계속</string>
+    <string name="splash_tagline">프라이빗하고, 간편하고, 편안하게</string>
+    <string name="onboarding_title_1">탭 한 번으로 안전한 연결</string>
+    <string name="onboarding_body_1">공용 Wi-Fi에서도 트래픽을 암호화합니다.</string>
+    <string name="onboarding_title_2">전 세계 서버</string>
+    <string name="onboarding_body_2">원하는 국가를 선택하세요. 목록은 10분마다 업데이트됩니다.</string>
+    <string name="onboarding_start">시작하기</string>
+</resources>

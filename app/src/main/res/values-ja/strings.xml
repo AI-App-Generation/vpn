@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Veil VPN</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="back">戻る</string>
+    <string name="next">次へ</string>
+    <string name="skip">スキップ</string>
+    <string name="done">完了</string>
+    <string name="save">保存</string>
+    <string name="close">閉じる</string>
+    <string name="confirm">確認</string>
+    <string name="retry">再試行</string>
+    <string name="loading">読み込み中…</string>
+    <string name="error">エラー</string>
+    <string name="error_generic">問題が発生しました。もう一度お試しください。</string>
+    <string name="home">ホーム</string>
+    <string name="settings">設定</string>
+    <string name="language">言語</string>
+
+    <string name="select_language">言語を選択</string>
+    <string name="select_region">地域を選択</string>
+
+    <!-- Entry flow: Splash / Language / Select / Onboarding / Welcome back -->
+    <string name="splash_loading">接続を保護しています…</string>
+    <string name="splash_ad_notice">この操作には広告が含まれる場合があります</string>
+    <string name="loading_ad">広告を読み込んでいます。お待ちください…</string>
+    <string name="language_title">言語を選択</string>
+    <string name="language_subtitle">設定からいつでも変更できます</string>
+    <string name="region_subtitle">あなたに合った地域を選んでください</string>
+    <string name="select_title">Veil VPNを何に使いますか？</string>
+    <string name="select_subtitle">当てはまるものをすべて選ぶと、あなたに合わせて最適化します。</string>
+    <string name="select_hint">1つ以上選択してください</string>
+    <string name="select_selected_count">選択済み：%1$d</string>
+    <string name="select_continue">続ける</string>
+    <string name="select_opt_public_wifi">安全な公共Wi-Fi</string>
+    <string name="select_opt_privacy">プライベートブラウジング</string>
+    <string name="select_opt_streaming">世界中の動画配信</string>
+    <string name="select_opt_gaming">オンラインゲーム</string>
+    <string name="select_opt_remote_work">リモートワーク</string>
+    <string name="select_opt_travel">海外旅行</string>
+    <string name="onboarding_title_welcome">%1$sへようこそ</string>
+    <string name="onboarding_body_welcome">プライベート接続の準備ができました。ワンタップで接続し、いつでも速度を確認できます。</string>
+    <string name="welcome_back_title">おかえりなさい！</string>
+    <string name="welcome_back_body">接続はワンタップで。前回の続きから始めましょう。</string>
+    <string name="welcome_back_continue">続ける</string>
+    <string name="splash_tagline">プライベート、シンプル、安心</string>
+    <string name="onboarding_title_1">ワンタップで安全に接続</string>
+    <string name="onboarding_body_1">公共Wi-Fiでも通信を暗号化します。</string>
+    <string name="onboarding_title_2">世界中のサーバー</string>
+    <string name="onboarding_body_2">好きな国を選べます。リストは10分ごとに更新されます。</string>
+    <string name="onboarding_start">はじめる</string>
+</resources>

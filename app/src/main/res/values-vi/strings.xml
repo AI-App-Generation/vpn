@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">Veil VPN</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Hủy</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="back">Quay lại</string>
+    <string name="next">Tiếp theo</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="done">Xong</string>
+    <string name="save">Lưu</string>
+    <string name="close">Đóng</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="retry">Thử lại</string>
+    <string name="loading">Đang tải…</string>
+    <string name="error">Lỗi</string>
+    <string name="error_generic">Đã xảy ra lỗi. Vui lòng thử lại.</string>
+    <string name="home">Trang chủ</string>
+    <string name="settings">Cài đặt</string>
+    <string name="language">Ngôn ngữ</string>
+
+    <string name="select_language">Chọn ngôn ngữ</string>
+    <string name="select_region">Chọn khu vực</string>
+
+    <!-- Shared -->
+    <string name="no_network_connection">Không có kết nối mạng</string>
+
+    <!-- VPN banners -->
+    <string name="banner_retrying_server">Máy chủ trước không phản hồi, đang thử %1$s (%2$d/%3$d)…</string>
+    <string name="banner_permission_denied">Cần cấp quyền VPN để kết nối</string>
+    <string name="banner_all_servers_failed">Không kết nối được máy chủ nào. Hãy chọn quốc gia khác hoặc thử lại.</string>
+    <string name="banner_connection_lost">Mất kết nối VPN</string>
+    <string name="banner_pending_switch">Đã chọn %1$s. Kết nối lại để chuyển máy chủ.</string>
+    <string name="banner_catalog_failed">Không tải được danh sách máy chủ</string>
+    <string name="banner_catalog_offline">Không có kết nối Internet. Danh sách máy chủ hiện không khả dụng.</string>
+    <string name="action_reconnect">Kết nối lại</string>
+    <string name="action_switch_now">Chuyển ngay</string>
+
+    <!-- Speed status line -->
+    <string name="speed_status_idle">Mất ~25 giây · dùng khoảng 50–300 MB dữ liệu</string>
+    <string name="speed_status_running_ping">Đang đo ping…</string>
+    <string name="speed_status_running_download">Đang đo tải xuống…</string>
+    <string name="speed_status_running_upload">Đang đo tải lên…</string>
+    <string name="speed_status_done">Hoàn tất lúc %1$s</string>
+    <string name="speed_error_no_network">Không thể đo: không có kết nối mạng</string>
+    <string name="speed_error_server_unreachable">Không thể đo: không kết nối được máy chủ đo</string>
+    <string name="speed_error_vpn_changed">Trạng thái VPN đã thay đổi, hãy đo lại</string>
+    <string name="speed_error_unknown">Không thể đo: đã xảy ra lỗi</string>
+    <string name="speed_route_vpn">Qua VPN · %1$s</string>
+    <string name="speed_route_connecting">VPN đang kết nối…</string>
+    <string name="speed_route_direct">Không qua VPN</string>
+    <string name="speed_phase_ready">SẴN SÀNG</string>
+    <string name="speed_phase_ping">PING</string>
+    <string name="speed_phase_download">TẢI XUỐNG</string>
+    <string name="speed_phase_upload">TẢI LÊN</string>
+    <string name="speed_phase_done">HOÀN TẤT</string>
+    <string name="speed_unit_ms">ms</string>
+    <string name="speed_unit_mbps">Mbps</string>
+    <string name="speed_action_start">Bắt đầu đo</string>
+    <string name="speed_action_stop">Dừng</string>
+    <string name="speed_action_again">Đo lại</string>
+    <string name="speed_metric_ping">Ping</string>
+    <string name="speed_metric_download">Tải xuống</string>
+    <string name="speed_metric_upload">Tải lên</string>
+    <string name="speed_history_title">Lịch sử 10 lần gần nhất</string>
+    <string name="speed_history_empty">Chưa có lần đo nào</string>
+    <string name="speed_history_rates">↓ %1$.1f  ↑ %2$.1f Mbps</string>
+    <string name="speed_history_route_time">%1$s · %2$s</string>
+    <string name="speed_no_vpn">Không VPN</string>
+    <string name="ping_ms">%1$d ms</string>
+    <string name="ping_unknown">— ms</string>
+    <string name="splash_tagline">Riêng tư, nhẹ nhàng</string>
+    <string name="onboarding_title_1">Kết nối an toàn chỉ với 1 chạm</string>
+    <string name="onboarding_body_1">Mã hoá lưu lượng khi dùng Wi-Fi công cộng.</string>
+    <string name="onboarding_title_2">Máy chủ khắp thế giới</string>
+    <string name="onboarding_body_2">Chọn quốc gia bạn muốn, danh sách cập nhật mỗi 10 phút.</string>
+    <string name="onboarding_start">Bắt đầu</string>
+    <string name="tab_vpn">VPN</string>
+    <string name="tab_locations">Địa điểm</string>
+    <string name="tab_speed">Tốc độ</string>
+    <string name="tab_settings">Cài đặt</string>
+    <!-- S01 VPN -->
+    <string name="vpn_pill_disconnected">Chưa kết nối</string>
+    <string name="vpn_pill_connecting">Đang kết nối</string>
+    <string name="vpn_pill_connected">Đã kết nối</string>
+    <string name="vpn_pill_checking">Vui lòng chờ</string>
+    <string name="vpn_pill_permission">Đang chờ cấp quyền</string>
+    <string name="vpn_pill_disconnecting">Đang ngắt</string>
+    <string name="vpn_title_disconnected">Không được bảo vệ</string>
+    <string name="vpn_title_connecting">Đang kết nối…</string>
+    <string name="vpn_title_connected">Đã được bảo vệ</string>
+    <string name="vpn_title_disconnecting">Đang ngắt…</string>
+    <string name="vpn_title_checking">Đang kiểm tra…</string>
+    <string name="vpn_subtitle_disconnected">Chạm nút để kết nối an toàn</string>
+    <string name="vpn_subtitle_connecting">%1$s · máy chủ %2$d/%3$d</string>
+    <string name="vpn_subtitle_connected">IP máy chủ %1$s</string>
+    <string name="vpn_subtitle_disconnecting">Đang đóng đường hầm bảo mật</string>
+    <string name="vpn_subtitle_checking">Đang tìm phiên kết nối trước đó</string>
+    <string name="vpn_subtitle_permission">Cho phép Veil VPN thiết lập kết nối VPN</string>
+    <string name="vpn_button_connect">Kết nối</string>
+    <string name="vpn_button_cancel">Hủy</string>
+    <string name="vpn_button_disconnect">Ngắt</string>
+    <string name="vpn_timer_label">Thời gian kết nối</string>
+    <string name="vpn_server_auto">Tự động chọn</string>
+    <string name="vpn_server_auto_resolved">Tự động · %1$s</string>
+    <string name="vpn_server_none">Chưa có máy chủ khả dụng</string>
+    <string name="vpn_server_none_hint">Thử lại sau ít phút</string>
+    <string name="banner_no_servers">Chưa có máy chủ khả dụng, thử lại sau</string>
+    <string name="banner_pending_switch_auto">Đã chọn Tự động. Kết nối lại để chuyển máy chủ.</string>
+    <string name="vpn_no_data_title">Chưa có dữ liệu máy chủ VPN</string>
+    <string name="vpn_no_data_body">Bạn có thể thử lại khi có mạng, xem các tab khác hoặc đo tốc độ mà không cần VPN.</string>
+    <string name="vpn_open_speed">Mở Tốc độ</string>
+    <string name="community_title">Máy chủ cộng đồng</string>
+    <string name="community_notice_short">Veil VPN kết nối qua các máy chủ miễn phí do tình nguyện viên của dự án VPNGate (Đại học Tsukuba, Nhật Bản) vận hành. Chủ máy chủ có thể ghi nhật ký kết nối, vì vậy hãy tránh các hoạt động nhạy cảm như ngân hàng trực tuyến.</string>
+    <string name="community_accept">Tôi hiểu, kết nối</string>
+    <string name="community_learn_more">Tìm hiểu thêm</string>
+    <string name="locations_search_hint">Tìm quốc gia</string>
+    <string name="locations_server_count">%1$d máy chủ</string>
+    <string name="locations_total">%1$d máy chủ</string>
+    <string name="locations_updated">Cập nhật %1$d phút trước · %2$d máy chủ</string>
+    <string name="locations_load_error">Không tải được danh sách máy chủ</string>
+    <string name="locations_empty_title">Chưa có máy chủ khả dụng</string>
+    <string name="locations_empty_body">Hãy thử lại sau ít phút.</string>
+    <string name="locations_no_results">Không tìm thấy “%1$s”</string>
+    <string name="locations_no_results_body">Thử tên quốc gia khác.</string>
+    <string name="locations_cached">Đang hiển thị dữ liệu đã lưu</string>
+    <string name="locations_auto_subtitle">Máy chủ nhanh nhất hiện có</string>
+    <string name="locations_priority">Ưu tiên</string>
+    <string name="locations_all">Tất cả quốc gia</string>
+    <string name="settings_appearance">Giao diện</string>
+    <string name="settings_accent">Màu chủ đạo</string>
+    <string name="settings_motion">Hiệu ứng chuyển động</string>
+    <string name="settings_general">Chung</string>
+    <string name="settings_share">Chia sẻ ứng dụng</string>
+    <string name="settings_share_text">%1$s — https://play.google.com/store/apps/details?id=%2$s</string>
+    <string name="settings_version">Phiên bản</string>
+    <string name="settings_servers">Về máy chủ</string>
+    <string name="settings_community_title">Mạng máy chủ cộng đồng VPNGate</string>
+    <string name="community_notice_full">Máy chủ VPNGate do các tình nguyện viên trong cộng đồng vận hành. Veil VPN không thể cam kết mọi chủ máy chủ đều tuân thủ chính sách không lưu nhật ký. Hãy ưu tiên HTTPS và tránh gửi thông tin nhạy cảm qua những dịch vụ bạn không tin cậy.</string>
+    <string name="settings_learn_vpngate">Tìm hiểu về VPNGate</string>
+    <string name="accent_indigo">Chàm</string><string name="accent_teal">Xanh ngọc</string><string name="accent_violet">Tím</string><string name="accent_rose">Hồng</string><string name="accent_ocean">Xanh biển</string>
+
+    <!-- Entry flow: Splash / Language / Select / Onboarding / Welcome back -->
+    <string name="splash_loading">Đang bảo vệ kết nối của bạn…</string>
+    <string name="splash_ad_notice">Thao tác này có thể chứa quảng cáo</string>
+    <string name="loading_ad">Đang tải quảng cáo, vui lòng chờ…</string>
+    <string name="language_title">Chọn ngôn ngữ</string>
+    <string name="language_subtitle">Bạn có thể đổi lại bất cứ lúc nào trong Cài đặt</string>
+    <string name="region_subtitle">Chọn khu vực phù hợp nhất với bạn</string>
+    <string name="select_title">Bạn dùng Veil VPN để làm gì?</string>
+    <string name="select_subtitle">Chọn tất cả mục phù hợp, chúng tôi sẽ cá nhân hoá trải nghiệm cho bạn.</string>
+    <string name="select_hint">Chọn ít nhất một mục</string>
+    <string name="select_selected_count">Đã chọn: %1$d</string>
+    <string name="select_continue">Tiếp tục</string>
+    <string name="select_opt_public_wifi">Wi-Fi công cộng an toàn</string>
+    <string name="select_opt_privacy">Duyệt web riêng tư</string>
+    <string name="select_opt_streaming">Xem nội dung toàn cầu</string>
+    <string name="select_opt_gaming">Chơi game online</string>
+    <string name="select_opt_remote_work">Làm việc từ xa</string>
+    <string name="select_opt_travel">Du lịch nước ngoài</string>
+    <string name="onboarding_title_welcome">Chào mừng đến với %1$s</string>
+    <string name="onboarding_body_welcome">Kết nối riêng tư của bạn đã sẵn sàng. Bật chỉ với 1 chạm và kiểm tra tốc độ bất cứ lúc nào.</string>
+    <string name="welcome_back_title">Chào mừng trở lại!</string>
+    <string name="welcome_back_body">Kết nối chỉ cách bạn 1 chạm. Tiếp tục ngay từ chỗ bạn đang dở.</string>
+    <string name="welcome_back_continue">Tiếp tục</string>
+</resources>

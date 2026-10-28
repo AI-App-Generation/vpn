@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Veil VPN</string>
+
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="back">رجوع</string>
+    <string name="next">التالي</string>
+    <string name="skip">تخطي</string>
+    <string name="done">تم</string>
+    <string name="save">حفظ</string>
+    <string name="close">إغلاق</string>
+    <string name="confirm">تأكيد</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="loading">جارٍ التحميل…</string>
+    <string name="error">خطأ</string>
+    <string name="error_generic">حدث خطأ ما. يرجى المحاولة مرة أخرى.</string>
+    <string name="home">الرئيسية</string>
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+
+    <string name="select_language">اختر اللغة</string>
+    <string name="select_region">اختر المنطقة</string>
+
+    <!-- Entry flow: Splash / Language / Select / Onboarding / Welcome back -->
+    <string name="splash_loading">جارٍ تأمين اتصالك…</string>
+    <string name="splash_ad_notice">قد يتضمن هذا الإجراء إعلانات</string>
+    <string name="loading_ad">جارٍ تحميل الإعلان، يرجى الانتظار…</string>
+    <string name="language_title">اختر لغتك</string>
+    <string name="language_subtitle">يمكنك تغييرها في أي وقت من الإعدادات</string>
+    <string name="region_subtitle">اختر المنطقة الأنسب لك</string>
+    <string name="select_title">لماذا ستستخدم Veil VPN؟</string>
+    <string name="select_subtitle">اختر كل ما ينطبق عليك وسنخصص تجربتك.</string>
+    <string name="select_hint">اختر خيارًا واحدًا على الأقل</string>
+    <string name="select_selected_count">المحدد: %1$d</string>
+    <string name="select_continue">متابعة</string>
+    <string name="select_opt_public_wifi">شبكة Wi-Fi عامة آمنة</string>
+    <string name="select_opt_privacy">تصفح خاص</string>
+    <string name="select_opt_streaming">بث من جميع أنحاء العالم</string>
+    <string name="select_opt_gaming">الألعاب عبر الإنترنت</string>
+    <string name="select_opt_remote_work">العمل عن بُعد</string>
+    <string name="select_opt_travel">السفر إلى الخارج</string>
+    <string name="onboarding_title_welcome">مرحبًا بك في %1$s</string>
+    <string name="onboarding_body_welcome">اتصالك الخاص جاهز. اتصل بلمسة واحدة وافحص سرعتك في أي وقت.</string>
+    <string name="welcome_back_title">مرحبًا بعودتك!</string>
+    <string name="welcome_back_body">اتصالك على بُعد لمسة واحدة. تابع من حيث توقفت.</string>
+    <string name="welcome_back_continue">متابعة</string>
+    <string name="splash_tagline">خاص وبسيط ومريح</string>
+    <string name="onboarding_title_1">اتصال آمن بلمسة واحدة</string>
+    <string name="onboarding_body_1">شفّر حركة بياناتك على شبكات Wi-Fi العامة.</string>
+    <string name="onboarding_title_2">خوادم حول العالم</string>
+    <string name="onboarding_body_2">اختر أي دولة تريدها. تُحدَّث القائمة كل 10 دقائق.</string>
+    <string name="onboarding_start">ابدأ الآن</string>
+</resources>

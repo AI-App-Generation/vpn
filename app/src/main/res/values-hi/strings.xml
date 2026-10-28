@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Veil VPN</string>
+
+    <string name="ok">ठीक है</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="back">वापस</string>
+    <string name="next">अगला</string>
+    <string name="skip">छोड़ें</string>
+    <string name="done">हो गया</string>
+    <string name="save">सहेजें</string>
+    <string name="close">बंद करें</string>
+    <string name="confirm">पुष्टि करें</string>
+    <string name="retry">पुनः प्रयास करें</string>
+    <string name="loading">लोड हो रहा है…</string>
+    <string name="error">त्रुटि</string>
+    <string name="error_generic">कुछ गलत हो गया। कृपया पुनः प्रयास करें।</string>
+    <string name="home">होम</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="language">भाषा</string>
+
+    <string name="select_language">भाषा चुनें</string>
+    <string name="select_region">क्षेत्र चुनें</string>
+
+    <!-- Entry flow: Splash / Language / Select / Onboarding / Welcome back -->
+    <string name="splash_loading">आपका कनेक्शन सुरक्षित किया जा रहा है…</string>
+    <string name="splash_ad_notice">इस क्रिया में विज्ञापन हो सकते हैं</string>
+    <string name="loading_ad">विज्ञापन लोड हो रहा है, कृपया प्रतीक्षा करें…</string>
+    <string name="language_title">अपनी भाषा चुनें</string>
+    <string name="language_subtitle">आप इसे सेटिंग्स में कभी भी बदल सकते हैं</string>
+    <string name="region_subtitle">अपने लिए सबसे उपयुक्त क्षेत्र चुनें</string>
+    <string name="select_title">आप Veil VPN का उपयोग किसलिए करेंगे?</string>
+    <string name="select_subtitle">जो भी लागू हो वह सब चुनें, हम आपका अनुभव आपके अनुसार तैयार करेंगे।</string>
+    <string name="select_hint">कम से कम एक विकल्प चुनें</string>
+    <string name="select_selected_count">चयनित: %1$d</string>
+    <string name="select_continue">जारी रखें</string>
+    <string name="select_opt_public_wifi">सुरक्षित सार्वजनिक Wi-Fi</string>
+    <string name="select_opt_privacy">निजी ब्राउज़िंग</string>
+    <string name="select_opt_streaming">दुनिया भर की स्ट्रीमिंग</string>
+    <string name="select_opt_gaming">ऑनलाइन गेमिंग</string>
+    <string name="select_opt_remote_work">रिमोट वर्क</string>
+    <string name="select_opt_travel">विदेश यात्रा</string>
+    <string name="onboarding_title_welcome">%1$s में आपका स्वागत है</string>
+    <string name="onboarding_body_welcome">आपका निजी कनेक्शन तैयार है। एक टैप में कनेक्ट करें और कभी भी स्पीड जाँचें।</string>
+    <string name="welcome_back_title">फिर से स्वागत है!</string>
+    <string name="welcome_back_body">आपका कनेक्शन बस एक टैप दूर है। वहीं से जारी रखें जहाँ आपने छोड़ा था।</string>
+    <string name="welcome_back_continue">जारी रखें</string>
+    <string name="splash_tagline">निजी, सरल, सुकूनभरा</string>
+    <string name="onboarding_title_1">एक टैप में सुरक्षित कनेक्शन</string>
+    <string name="onboarding_body_1">सार्वजनिक Wi-Fi पर अपने ट्रैफ़िक को एन्क्रिप्ट करें।</string>
+    <string name="onboarding_title_2">दुनिया भर में सर्वर</string>
+    <string name="onboarding_body_2">कोई भी देश चुनें। सूची हर 10 मिनट में अपडेट होती है।</string>
+    <string name="onboarding_start">शुरू करें</string>
+</resources>

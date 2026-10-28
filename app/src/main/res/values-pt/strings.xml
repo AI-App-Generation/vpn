@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Veil VPN</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="back">Voltar</string>
+    <string name="next">Próximo</string>
+    <string name="skip">Pular</string>
+    <string name="done">Concluído</string>
+    <string name="save">Salvar</string>
+    <string name="close">Fechar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="loading">Carregando…</string>
+    <string name="error">Erro</string>
+    <string name="error_generic">Algo deu errado. Tente novamente.</string>
+    <string name="home">Início</string>
+    <string name="settings">Configurações</string>
+    <string name="language">Idioma</string>
+
+    <string name="select_language">Selecionar idioma</string>
+    <string name="select_region">Selecionar região</string>
+
+    <!-- Entry flow: Splash / Language / Select / Onboarding / Welcome back -->
+    <string name="splash_loading">Protegendo sua conexão…</string>
+    <string name="splash_ad_notice">Esta ação pode conter anúncios</string>
+    <string name="loading_ad">Carregando anúncio, aguarde…</string>
+    <string name="language_title">Escolha seu idioma</string>
+    <string name="language_subtitle">Você pode alterá-lo a qualquer momento nas Configurações</string>
+    <string name="region_subtitle">Escolha a região que combina com você</string>
+    <string name="select_title">Para que você vai usar o Veil VPN?</string>
+    <string name="select_subtitle">Escolha tudo o que se aplica e vamos personalizar sua experiência.</string>
+    <string name="select_hint">Escolha pelo menos uma opção</string>
+    <string name="select_selected_count">Selecionados: %1$d</string>
+    <string name="select_continue">Continuar</string>
+    <string name="select_opt_public_wifi">Wi-Fi público seguro</string>
+    <string name="select_opt_privacy">Navegação privada</string>
+    <string name="select_opt_streaming">Streaming do mundo todo</string>
+    <string name="select_opt_gaming">Jogos online</string>
+    <string name="select_opt_remote_work">Trabalho remoto</string>
+    <string name="select_opt_travel">Viagens ao exterior</string>
+    <string name="onboarding_title_welcome">Boas-vindas ao %1$s</string>
+    <string name="onboarding_body_welcome">Sua conexão privada está pronta. Conecte com um toque e teste sua velocidade quando quiser.</string>
+    <string name="welcome_back_title">Que bom ter você de volta!</string>
+    <string name="welcome_back_body">Sua conexão está a um toque. Continue de onde parou.</string>
+    <string name="welcome_back_continue">Continuar</string>
+    <string name="splash_tagline">Privado, simples, tranquilo</string>
+    <string name="onboarding_title_1">Conexão segura com um toque</string>
+    <string name="onboarding_body_1">Criptografe seu tráfego em redes Wi-Fi públicas.</string>
+    <string name="onboarding_title_2">Servidores no mundo todo</string>
+    <string name="onboarding_body_2">Escolha o país que quiser. A lista é atualizada a cada 10 minutos.</string>
+    <string name="onboarding_start">Começar</string>
+</resources>

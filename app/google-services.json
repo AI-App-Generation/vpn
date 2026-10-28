@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626527261776",
+    "project_id": "veil-vpn-e60bc",
+    "storage_bucket": "veil-vpn-e60bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626527261776:android:dc0dea1cefb32f83216d55",
+        "android_client_info": {
+          "package_name": "com.thanhmich.veil.vpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAinE7R33CbrS0QY9pyspdlEh03ZTw6laM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Veil VPN</string>
+
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="back">返回</string>
+    <string name="next">下一步</string>
+    <string name="skip">跳过</string>
+    <string name="done">完成</string>
+    <string name="save">保存</string>
+    <string name="close">关闭</string>
+    <string name="confirm">确认</string>
+    <string name="retry">重试</string>
+    <string name="loading">加载中…</string>
+    <string name="error">错误</string>
+    <string name="error_generic">出了点问题，请重试。</string>
+    <string name="home">首页</string>
+    <string name="settings">设置</string>
+    <string name="language">语言</string>
+
+    <string name="select_language">选择语言</string>
+    <string name="select_region">选择地区</string>
+
+    <!-- Entry flow: Splash / Language / Select / Onboarding / Welcome back -->
+    <string name="splash_loading">正在保护你的连接…</string>
+    <string name="splash_ad_notice">此操作可能包含广告</string>
+    <string name="loading_ad">广告加载中，请稍候…</string>
+    <string name="language_title">选择语言</string>
+    <string name="language_subtitle">你可以随时在设置中更改</string>
+    <string name="region_subtitle">选择最适合你的地区</string>
+    <string name="select_title">你会用 Veil VPN 做什么？</string>
+    <string name="select_subtitle">选择所有适用的选项，我们将为你定制体验。</string>
+    <string name="select_hint">请至少选择一项</string>
+    <string name="select_selected_count">已选择：%1$d</string>
+    <string name="select_continue">继续</string>
+    <string name="select_opt_public_wifi">安全使用公共 Wi-Fi</string>
+    <string name="select_opt_privacy">隐私浏览</string>
+    <string name="select_opt_streaming">畅享全球影音</string>
+    <string name="select_opt_gaming">网络游戏</string>
+    <string name="select_opt_remote_work">远程办公</string>
+    <string name="select_opt_travel">出国旅行</string>
+    <string name="onboarding_title_welcome">欢迎使用 %1$s</string>
+    <string name="onboarding_body_welcome">你的私密连接已就绪。一键连接，随时测速。</string>
+    <string name="welcome_back_title">欢迎回来！</string>
+    <string name="welcome_back_body">一键即可连接，从上次离开的地方继续吧。</string>
+    <string name="welcome_back_continue">继续</string>
+    <string name="splash_tagline">私密、简单、安心</string>
+    <string name="onboarding_title_1">一键安全连接</string>
+    <string name="onboarding_body_1">在公共 Wi-Fi 上加密你的流量。</string>
+    <string name="onboarding_title_2">遍布全球的服务器</string>
+    <string name="onboarding_body_2">任选你想要的国家，列表每 10 分钟更新一次。</string>
+    <string name="onboarding_start">立即开始</string>
+</resources>

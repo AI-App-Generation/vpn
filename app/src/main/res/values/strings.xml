@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Veil VPN</string>
+
+    <!-- Fill in per-app when forking from this template (Facebook Developer Console). -->
+    <string name="facebook_app_id"></string>
+    <string name="facebook_client_token"></string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="done">Done</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="confirm">Confirm</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading…</string>
+    <string name="error">Error</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+
+    <string name="select_language">Select language</string>
+    <string name="select_region">Select region</string>
+
+    <!-- Shared -->
+    <string name="no_network_connection">No network connection</string>
+
+    <!-- VPN banners -->
+    <string name="banner_retrying_server">Previous server didn\'t respond, trying %1$s (%2$d/%3$d)…</string>
+    <string name="banner_permission_denied">VPN permission is required to connect</string>
+    <string name="banner_all_servers_failed">Couldn\'t connect to any server. Choose another country or try again.</string>
+    <string name="banner_connection_lost">VPN connection lost</string>
+    <string name="banner_pending_switch">%1$s selected. Reconnect to switch servers.</string>
+    <string name="banner_catalog_failed">Couldn\'t load the server list</string>
+    <string name="banner_catalog_offline">No internet connection. Server list is unavailable.</string>
+    <string name="action_reconnect">Reconnect</string>
+    <string name="action_switch_now">Switch now</string>
+
+    <!-- Speed status line -->
+    <string name="speed_status_idle">Takes ~25 seconds · uses about 50–300 MB of data</string>
+    <string name="speed_status_running_ping">Measuring ping…</string>
+    <string name="speed_status_running_download">Measuring download…</string>
+    <string name="speed_status_running_upload">Measuring upload…</string>
+    <string name="speed_status_done">Completed at %1$s</string>
+    <string name="speed_error_no_network">Can\'t measure: no network connection</string>
+    <string name="speed_error_server_unreachable">Can\'t measure: test server unreachable</string>
+    <string name="speed_error_vpn_changed">VPN status changed, please measure again</string>
+    <string name="speed_error_unknown">Can\'t measure: something went wrong</string>
+    <string name="speed_route_vpn">Via VPN · %1$s</string>
+    <string name="speed_route_connecting">VPN is connecting…</string>
+    <string name="speed_route_direct">Without VPN</string>
+    <string name="speed_phase_ready">READY</string>
+    <string name="speed_phase_ping">PING</string>
+    <string name="speed_phase_download">DOWNLOAD</string>
+    <string name="speed_phase_upload">UPLOAD</string>
+    <string name="speed_phase_done">DONE</string>
+    <string name="speed_unit_ms">ms</string>
+    <string name="speed_unit_mbps">Mbps</string>
+    <string name="speed_action_start">Start test</string>
+    <string name="speed_action_stop">Stop</string>
+    <string name="speed_action_again">Test again</string>
+    <string name="speed_metric_ping">Ping</string>
+    <string name="speed_metric_download">Download</string>
+    <string name="speed_metric_upload">Upload</string>
+    <string name="speed_history_title">Last 10 tests</string>
+    <string name="speed_history_empty">No tests yet</string>
+    <string name="speed_history_rates">↓ %1$.1f  ↑ %2$.1f Mbps</string>
+    <string name="speed_history_route_time">%1$s · %2$s</string>
+    <string name="speed_no_vpn">No VPN</string>
+    <string name="ping_ms">%1$d ms</string>
+    <string name="ping_unknown">— ms</string>
+    <string name="splash_tagline">Private, simple, calm</string>
+    <string name="onboarding_title_1">Secure connection in one tap</string>
+    <string name="onboarding_body_1">Encrypt your traffic on public Wi-Fi.</string>
+    <string name="onboarding_title_2">Servers around the world</string>
+    <string name="onboarding_body_2">Pick any country you like. The list refreshes every 10 minutes.</string>
+    <string name="onboarding_start">Get started</string>
+    <string name="tab_vpn">VPN</string>
+    <string name="tab_locations">Locations</string>
+    <string name="tab_speed">Speed</string>
+    <string name="tab_settings">Settings</string>
+    <!-- S01 VPN -->
+    <string name="vpn_pill_disconnected">Not connected</string>
+    <string name="vpn_pill_connecting">Connecting</string>
+    <string name="vpn_pill_connected">Connected</string>
+    <string name="vpn_pill_checking">Please wait</string>
+    <string name="vpn_pill_permission">Waiting for permission</string>
+    <string name="vpn_pill_disconnecting">Disconnecting</string>
+    <string name="vpn_title_disconnected">Not protected</string>
+    <string name="vpn_title_connecting">Connecting…</string>
+    <string name="vpn_title_connected">You\'re protected</string>
+    <string name="vpn_title_disconnecting">Disconnecting…</string>
+    <string name="vpn_title_checking">Checking…</string>
+    <string name="vpn_subtitle_disconnected">Tap the button to connect securely</string>
+    <string name="vpn_subtitle_connecting">%1$s · server %2$d/%3$d</string>
+    <string name="vpn_subtitle_connected">Server IP %1$s</string>
+    <string name="vpn_subtitle_disconnecting">Closing the secure tunnel</string>
+    <string name="vpn_subtitle_checking">Looking for your previous session</string>
+    <string name="vpn_subtitle_permission">Allow Veil VPN to set up a VPN connection</string>
+    <string name="vpn_button_connect">Connect</string>
+    <string name="vpn_button_cancel">Cancel</string>
+    <string name="vpn_button_disconnect">Disconnect</string>
+    <string name="vpn_timer_label">Connection time</string>
+    <string name="vpn_server_auto">Auto select</string>
+    <string name="vpn_server_auto_resolved">Auto · %1$s</string>
+    <string name="vpn_server_none">No servers available</string>
+    <string name="vpn_server_none_hint">Try again in a moment</string>
+    <string name="banner_no_servers">No servers available yet, please try again later</string>
+    <string name="banner_pending_switch_auto">Auto select chosen. Reconnect to switch servers.</string>
+    <string name="vpn_no_data_title">VPN servers are not available yet</string>
+    <string name="vpn_no_data_body">You can retry when the network is available, browse the other tabs, or run a speed test without VPN.</string>
+    <string name="vpn_open_speed">Open Speed</string>
+    <string name="community_title">Community servers</string>
+    <string name="community_notice_short">Veil VPN connects through free servers run by volunteers of the VPNGate project (University of Tsukuba, Japan). Server operators may log connections, so avoid sensitive activities such as online banking.</string>
+    <string name="community_accept">I understand, connect</string>
+    <string name="community_learn_more">Learn more</string>
+    <string name="locations_search_hint">Search countries</string>
+    <string name="locations_server_count">%1$d servers</string>
+    <string name="locations_total">%1$d servers</string>
+    <string name="locations_updated">Updated %1$d min ago · %2$d servers</string>
+    <string name="locations_load_error">Couldn\'t load the server list</string>
+    <string name="locations_empty_title">No servers available</string>
+    <string name="locations_empty_body">Try again in a few minutes.</string>
+    <string name="locations_no_results">No results for “%1$s”</string>
+    <string name="locations_no_results_body">Try another country name.</string>
+    <string name="locations_cached">Showing saved data</string>
+    <string name="locations_auto_subtitle">Fastest server available</string>
+    <string name="locations_priority">Priority</string>
+    <string name="locations_all">All countries</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_accent">Accent color</string>
+    <string name="settings_motion">Motion effects</string>
+    <string name="settings_general">General</string>
+    <string name="settings_share">Share app</string>
+    <string name="settings_share_text">%1$s — https://play.google.com/store/apps/details?id=%2$s</string>
+    <string name="settings_version">Version</string>
+    <string name="settings_servers">About servers</string>
+    <string name="settings_community_title">VPNGate community network</string>
+    <string name="community_notice_full">VPNGate servers are operated by community volunteers. Veil VPN cannot guarantee that every operator follows a no-log policy. Prefer HTTPS and avoid sending sensitive information on services you do not trust.</string>
+    <string name="settings_learn_vpngate">Learn about VPNGate</string>
+    <string name="accent_indigo">Indigo</string><string name="accent_teal">Teal</string><string name="accent_violet">Violet</string><string name="accent_rose">Rose</string><string name="accent_ocean">Ocean</string>
+
+    <!-- Entry flow: Splash / Language / Select / Onboarding / Welcome back -->
+    <string name="splash_loading">Securing your connection…</string>
+    <string name="splash_ad_notice">This action may contain ads</string>
+    <string name="loading_ad">Loading ad, please wait…</string>
+    <string name="language_title">Choose your language</string>
+    <string name="language_subtitle">You can change it anytime in Settings</string>
+    <string name="region_subtitle">Pick the region that fits you best</string>
+    <string name="select_title">What will you use Veil VPN for?</string>
+    <string name="select_subtitle">Pick everything that applies and we\'ll tailor your experience.</string>
+    <string name="select_hint">Choose at least one option</string>
+    <string name="select_selected_count">Selected: %1$d</string>
+    <string name="select_continue">Continue</string>
+    <string name="select_opt_public_wifi">Safe public Wi-Fi</string>
+    <string name="select_opt_privacy">Private browsing</string>
+    <string name="select_opt_streaming">Stream worldwide</string>
+    <string name="select_opt_gaming">Online gaming</string>
+    <string name="select_opt_remote_work">Remote work</string>
+    <string name="select_opt_travel">Travel abroad</string>
+    <string name="onboarding_title_welcome">Welcome to %1$s</string>
+    <string name="onboarding_body_welcome">Your private connection is ready. Connect in one tap and check your speed anytime.</string>
+    <string name="welcome_back_title">Welcome back!</string>
+    <string name="welcome_back_body">Your connection is one tap away. Pick up right where you left off.</string>
+    <string name="welcome_back_continue">Continue</string>
+</resources>

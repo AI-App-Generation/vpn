@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Veil VPN</string>
+
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="back">Назад</string>
+    <string name="next">Далее</string>
+    <string name="skip">Пропустить</string>
+    <string name="done">Готово</string>
+    <string name="save">Сохранить</string>
+    <string name="close">Закрыть</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="retry">Повторить</string>
+    <string name="loading">Загрузка…</string>
+    <string name="error">Ошибка</string>
+    <string name="error_generic">Что-то пошло не так. Попробуйте снова.</string>
+    <string name="home">Главная</string>
+    <string name="settings">Настройки</string>
+    <string name="language">Язык</string>
+
+    <string name="select_language">Выберите язык</string>
+    <string name="select_region">Выберите регион</string>
+
+    <!-- Entry flow: Splash / Language / Select / Onboarding / Welcome back -->
+    <string name="splash_loading">Защищаем ваше соединение…</string>
+    <string name="splash_ad_notice">Это действие может содержать рекламу</string>
+    <string name="loading_ad">Загрузка рекламы, подождите…</string>
+    <string name="language_title">Выберите язык</string>
+    <string name="language_subtitle">Его можно изменить в любой момент в настройках</string>
+    <string name="region_subtitle">Выберите подходящий вам регион</string>
+    <string name="select_title">Для чего вы будете использовать Veil VPN?</string>
+    <string name="select_subtitle">Выберите всё подходящее, и мы настроим приложение под вас.</string>
+    <string name="select_hint">Выберите хотя бы один вариант</string>
+    <string name="select_selected_count">Выбрано: %1$d</string>
+    <string name="select_continue">Продолжить</string>
+    <string name="select_opt_public_wifi">Безопасный публичный Wi-Fi</string>
+    <string name="select_opt_privacy">Приватный сёрфинг</string>
+    <string name="select_opt_streaming">Стриминг со всего мира</string>
+    <string name="select_opt_gaming">Онлайн-игры</string>
+    <string name="select_opt_remote_work">Удалённая работа</string>
+    <string name="select_opt_travel">Поездки за границу</string>
+    <string name="onboarding_title_welcome">Добро пожаловать в %1$s</string>
+    <string name="onboarding_body_welcome">Ваше приватное соединение готово. Подключайтесь в одно касание и проверяйте скорость в любой момент.</string>
+    <string name="welcome_back_title">С возвращением!</string>
+    <string name="welcome_back_body">Соединение в одном касании. Продолжайте с того места, где остановились.</string>
+    <string name="welcome_back_continue">Продолжить</string>
+    <string name="splash_tagline">Приватно, просто, спокойно</string>
+    <string name="onboarding_title_1">Защищённое соединение в одно касание</string>
+    <string name="onboarding_body_1">Шифруйте трафик в публичных сетях Wi-Fi.</string>
+    <string name="onboarding_title_2">Серверы по всему миру</string>
+    <string name="onboarding_body_2">Выберите любую страну. Список обновляется каждые 10 минут.</string>
+    <string name="onboarding_start">Начать</string>
+</resources>
